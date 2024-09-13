@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 void main() {
   Map<String, dynamic> person = {
     'nama': 'Surya Zein Rambe',
